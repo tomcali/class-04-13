@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-work",
+  "version": "1.0.0",
+  "description": "sequelize work begins",
+  "main": "sequelize-v001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sequelize",
+    "mysql",
+    "object-relational",
+    "mapper"
+  ],
+  "author": "Tom Miller",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
